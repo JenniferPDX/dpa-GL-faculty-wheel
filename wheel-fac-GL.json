@@ -445,42 +445,57 @@
           },
           {
             "colour": "#36483b",
-            "name": "PA 405",
+            "name": "PA 405: R&C: SUST LEADRSHIP VIETNAM",
             "size": 5
           },
           {
             "colour": "#36483b",
-            "name": "PA 504",
+            "name": "PA 504: INTERNSHIP",
             "size": 5
           },
           {
             "colour": "#36483b",
-            "name": "PA 505",
+            "name": "PA 505: R & C",
             "size": 5
           },
           {
             "colour": "#36483b",
-            "name": "PA 510",
+            "name": "PA 510: PUB LSHP & CULT COMPTENCY",
             "size": 5
           },
           {
             "colour": "#36483b",
-            "name": "PA 514",
+            "name": "PA 510: INTL FLD EXPRNCE VIETNAM",
             "size": 5
           },
           {
             "colour": "#36483b",
-            "name": "PA 517",
+            "name": "PA 510: INTERNATIONAL FIELD EXP",
             "size": 5
           },
           {
             "colour": "#36483b",
-            "name": "PA 558",
+            "name": "PA 514: GLOBAL LEADERSHIP & MGMT",
             "size": 5
           },
           {
             "colour": "#36483b",
-            "name": "PA 710",
+            "name": "PA 517: LDRSHP DEV/PUB ORGS",
+            "size": 5
+          },
+          {
+            "colour": "#36483b",
+            "name": "PA 558: MANAGING PUBLIC PROJECTS",
+            "size": 5
+          },
+          {
+            "colour": "#36483b",
+            "name": "PA 710: SPST: FOUNDATNS OF EMERGE LDRS",
+            "size": 5
+          },
+          {
+            "colour": "#36483b",
+            "name": "PA 710: SPST: SPST: NAVIGATING POLITY NTWRKS",
             "size": 5
           },
           {
@@ -590,11 +605,6 @@
           {
             "colour": "#fd8d3c",
             "name": "SUCCESSION PLANNING",
-            "size": 5
-          },
-          {
-            "colour": "#fd8d3c",
-            "name": "YY",
             "size": 5
           }
         ]
