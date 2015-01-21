@@ -4,7 +4,7 @@
     "children": [
       {
         "colour": "#36483b",
-        "name": "TEACHING/=GEN & GL",
+        "name": "TEACHING/=GENERAL & GL",
         "children": [
           {
             "colour": "#36483b",
@@ -135,7 +135,7 @@
           },
           {
             "colour": "#C0CCC0",
-            "name": "TREE/FOREST: EMBEDDING SERV LRN",
+            "name": "INTERNATIONALIZING PA",
             "size": 5
           }
         ]
@@ -177,6 +177,16 @@
           {
             "colour": "#ae4a1c",
             "name": "FULBRIGHT CANADA",
+            "size": 5
+          },
+          {
+            "colour": "#ae4a1c",
+            "name": "PNW CANADIAN STUDIES CON",
+            "size": 5
+          },
+          {
+            "colour": "#ae4a1c",
+            "name": "INTER-AM NETWORK PUB AD ED",
             "size": 5
           },
           {
