@@ -110,32 +110,32 @@
         "children": [
           {
             "colour": "#C0CCC0",
-            "name": "Eco LDRSHP thru Immigrant Inc",
+            "name": "ECO LDRSHP THRU IMMIGRANT INC",
             "size": 5
           },
           {
             "colour": "#C0CCC0",
-            "name": "Env Outreach: SP speaking Pop",
+            "name": "ENV OUTREACH: SP SPEAKING POP",
             "size": 5
           },
           {
             "colour": "#C0CCC0",
-            "name": "Com Strat's: Mgmt, World Heritage Sites",
+            "name": "COM STRAT: MGMT, WRLD HERITG SITES",
             "size": 5
           },
           {
             "colour": "#C0CCC0",
-            "name": "Monte Alban's Sister Parks Init",
+            "name": "MONTE ALBAN'S SISTER PARKS INIT",
             "size": 5
           },
           {
             "colour": "#C0CCC0",
-            "name": "Place, Adaptation, ID: Cultural Landscapes",
+            "name": "PLACE, ADAPTATN, ID: CULT LANDSCP",
             "size": 5
           },
           {
             "colour": "#C0CCC0",
-            "name": "Tree/Forest: Imbedding Service Learn",
+            "name": "TREE/FOREST: EMBEDDING SERV LRN",
             "size": 5
           }
         ]
@@ -255,172 +255,6 @@
             "colour": "#fdbe85",
             "name": "OAXACA PROGRAM, DIRECTOR",
             "size": 5
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "name": "KECSKES",
-    "children": [
-      {
-        "colour": "#36483b",
-        "name": "TEACHING/-GEN & CIVIC LEAD",
-        "children": [
-          {
-            "colour": "#36483b",
-            "name": "CIVIC LEADERSHIP",
-            "size": 5
-          },
-          {
-            "colour": "#36483b",
-            "name": "GLOBAL LEADERSHIP",
-            "size": 5
-          },
-          {
-            "colour": "#36483b",
-            "name": "PA 311: INTRO CIVIC ENGAGEMENT",
-            "size": 5
-          },
-          {
-            "colour": "#36483b",
-            "name": "PA 312: FOUNDATIONS OF COMM LEADERSHIP",
-            "size": 5
-          },
-          {
-            "colour": "#36483b",
-            "name": "PA 402: IS: CIVIC LEADERSHIP",
-            "size": 5
-          },
-          {
-            "colour": "#36483b",
-            "name": "PA 405",
-            "size": 5
-          },
-          {
-            "colour": "#36483b",
-            "name": "PA 409: PRACTICUM",
-            "size": 5
-          },
-          {
-            "colour": "#36483b",
-            "name": "PA 411: FOUND CITIZENSHIP/COMM LDRS",
-            "size": 5
-          },
-          {
-            "colour": "#36483b",
-            "name": "PA 415: CIVIC LDRSHP INTEGRATIVE SEM",
-            "size": 5
-          },
-          {
-            "colour": "#36483b",
-            "name": "PA 505",
-            "size": 5
-          },
-          {
-            "colour": "#36483b",
-            "name": "PA 513: ADMIN ETHICS / VALUE",
-            "size": 5
-          },
-          {
-            "colour": "#36483b",
-            "name": "PA 523: NGOS NONPROFIT ON-WORLD STAGE",
-            "size": 5
-          },
-          {
-            "colour": "#36483b",
-            "name": "PA 536: STRATEGIC PLANNING",
-            "size": 5
-          }
-        ]
-      },
-      {
-        "colour": "#667A66",
-        "name": "STUDENT ADVISING",
-        "children": [
-          {
-            "colour": "#667A66",
-            "name": "MPA",
-            "size": 5
-          }
-        ]
-      },
-      {
-        "colour": "#C0CCC0",
-        "name": "RESEARCH/SCHOL.",
-        "children": [
-          {
-            "colour": "#C0CCC0",
-            "name": "XX",
-            "size": 5
-          },
-          {
-            "colour": "#C0CCC0",
-            "name": "YY",
-            "size": 5
-          },
-          {
-            "colour": "#C0CCC0",
-            "name": "ZZ",
-            "size": 5
-          }
-        ]
-      },
-      {
-        "colour": "#ae4a1c",
-        "name": "COLLABORATIONS/-PARTNERS",
-        "children": [
-          {
-            "colour": "#ae4a1c",
-            "name": "INTERNATIONALIZATION COUNCIL",
-            "size": 5
-          },
-          {
-            "colour": "#ae4a1c",
-            "name": "YY",
-            "size": 5
-          },
-          {
-            "colour": "#ae4a1c",
-            "name": "ZZ",
-            "size": 5
-          }
-        ]
-      },
-      {
-        "colour": "#fd8d3c",
-        "name": "INTERNAL COMS &-TASK FORCES",
-        "children": [
-          {
-            "colour": "#fd8d3c",
-            "name": "UNDERGRAD DEGREE, LEAD",
-            "size": 5
-          },
-          {
-            "colour": "#fd8d3c",
-            "name": "STUDENT ASSESSMENT COM",
-            "size": 5
-          },
-          {
-            "colour": "#fd8d3c",
-            "name": "STRAT ENROL MGT",
-            "size": 5
-          },
-          {
-            "colour": "#fd8d3c",
-            "name": "U Wide PARTNERSHIPS COUNCIL",
-            "size": 5
-          }
-        ]
-      },
-      {
-        "colour": "#fdbe85",
-        "name": "ADMINISTERS",
-        "children": [
-          {
-            "colour": "#fdbe85",
-            "name": "CIVIC LEADERSHIP MINOR, DIR",
-            "size": 50
           }
         ]
       }
@@ -616,6 +450,408 @@
           {
             "colour": "#fdbe85",
             "name": "INT'L PUB SERVICE, DIR",
+            "size": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "KECSKES",
+    "children": [
+      {
+        "colour": "#36483b",
+        "name": "TEACHING/-GEN & CIVIC LEAD",
+        "children": [
+          {
+            "colour": "#36483b",
+            "name": "CIVIC LEADERSHIP",
+            "size": 5
+          },
+          {
+            "colour": "#36483b",
+            "name": "GLOBAL LEADERSHIP",
+            "size": 5
+          },
+          {
+            "colour": "#36483b",
+            "name": "PA 311: INTRO CIVIC ENGAGEMENT",
+            "size": 5
+          },
+          {
+            "colour": "#36483b",
+            "name": "PA 312: FOUND OF COMM LEADERSHIP",
+            "size": 5
+          },
+          {
+            "colour": "#36483b",
+            "name": "PA 402: IS: CIVIC LEADERSHIP",
+            "size": 5
+          },
+          {
+            "colour": "#36483b",
+            "name": "PA 405",
+            "size": 5
+          },
+          {
+            "colour": "#36483b",
+            "name": "PA 409: PRACTICUM",
+            "size": 5
+          },
+          {
+            "colour": "#36483b",
+            "name": "PA 411: FOUND CITIZENSHIP/COMM LDRS",
+            "size": 5
+          },
+          {
+            "colour": "#36483b",
+            "name": "PA 415: CIVIC LDRSHP INTEGRATIVE SEM",
+            "size": 5
+          },
+          {
+            "colour": "#36483b",
+            "name": "PA 505",
+            "size": 5
+          },
+          {
+            "colour": "#36483b",
+            "name": "PA 513: ADMIN ETHICS / VALUE",
+            "size": 5
+          },
+          {
+            "colour": "#36483b",
+            "name": "PA 523: NGOS NONPROFIT ON-WORLD STAGE",
+            "size": 5
+          },
+          {
+            "colour": "#36483b",
+            "name": "PA 536: STRATEGIC PLANNING",
+            "size": 5
+          }
+        ]
+      },
+      {
+        "colour": "#667A66",
+        "name": "STUDENT ADVISING",
+        "children": [
+          {
+            "colour": "#667A66",
+            "name": "MPA",
+            "size": 5
+          }
+        ]
+      },
+      {
+        "colour": "#C0CCC0",
+        "name": "RESEARCH/SCHOL.",
+        "children": [
+          {
+            "colour": "#C0CCC0",
+            "name": "XX",
+            "size": 5
+          },
+          {
+            "colour": "#C0CCC0",
+            "name": "YY",
+            "size": 5
+          },
+          {
+            "colour": "#C0CCC0",
+            "name": "ZZ",
+            "size": 5
+          }
+        ]
+      },
+      {
+        "colour": "#ae4a1c",
+        "name": "COLLABORATIONS/-PARTNERS",
+        "children": [
+          {
+            "colour": "#ae4a1c",
+            "name": "INTERNATIONALIZATION COUNCIL",
+            "size": 5
+          },
+          {
+            "colour": "#ae4a1c",
+            "name": "YY",
+            "size": 5
+          },
+          {
+            "colour": "#ae4a1c",
+            "name": "ZZ",
+            "size": 5
+          }
+        ]
+      },
+      {
+        "colour": "#fd8d3c",
+        "name": "INTERNAL COMS &-TASK FORCES",
+        "children": [
+          {
+            "colour": "#fd8d3c",
+            "name": "UNDERGRAD DEGREE, LEAD",
+            "size": 5
+          },
+          {
+            "colour": "#fd8d3c",
+            "name": "STUDENT ASSESSMENT COM",
+            "size": 5
+          },
+          {
+            "colour": "#fd8d3c",
+            "name": "STRAT ENROL MGT",
+            "size": 5
+          },
+          {
+            "colour": "#fd8d3c",
+            "name": "U Wide PARTNERSHIPS COUNCIL",
+            "size": 5
+          }
+        ]
+      },
+      {
+        "colour": "#fdbe85",
+        "name": "ADMINISTERS",
+        "children": [
+          {
+            "colour": "#fdbe85",
+            "name": "CIVIC LEADERSHIP MINOR, DIR",
+            "size": 50
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "NISHISHIBA",
+    "children": [
+      {
+        "colour": "#36483b",
+        "name": "TEACHING/-GENERAL, LG & GL",
+        "children": [
+          {
+            "colour": "#36483b",
+            "name": "NON PROFIT MANAGEMENT CERT",
+            "size": 5
+          },
+          {
+            "colour": "#36483b",
+            "name": "METHODS",
+            "size": 5
+          },
+          {
+            "colour": "#36483b",
+            "name": "DIVERSITY",
+            "size": 5
+          },
+          {
+            "colour": "#36483b",
+            "name": "INTERCULTURAL COMMUNICATION",
+            "size": 5
+          },
+          {
+            "colour": "#36483b",
+            "name": "PA 505",
+            "size": 5
+          },
+          {
+            "colour": "#36483b",
+            "name": "PA 506: PROJ: SUPERVISN MLTCLTR",
+            "size": 5
+          },
+          {
+            "colour": "#36483b",
+            "name": "PA 510: ADVANCED CASE ANALYSIS",
+            "size": 5
+          },
+          {
+            "colour": "#36483b",
+            "name": "PA 510: PUB LSHIP & CULT COMP",
+            "size": 5
+          },
+          {
+            "colour": "#36483b",
+            "name": "PA 510: INTERNATIONAL FIELD EXP",
+            "size": 5
+          },
+          {
+            "colour": "#36483b",
+            "name": "PA 512: REFL PRACT, CASE ANALYSIS",
+            "size": 5
+          },
+          {
+            "colour": "#36483b",
+            "name": "PA 519: CIVIC CAPACITY",
+            "size": 5
+          },
+          {
+            "colour": "#36483b",
+            "name": "PA 549: CROSSCULT COMM/PUBL",
+            "size": 5
+          },
+          {
+            "colour": "#36483b",
+            "name": "PA 551: ANALYTIC METH PA I",
+            "size": 5
+          },
+          {
+            "colour": "#36483b",
+            "name": "PA 552: ANALYTIC METH PA II",
+            "size": 5
+          },
+          {
+            "colour": "#36483b",
+            "name": "PA 594: ENHNCNG DIV IN WORKPLACE",
+            "size": 5
+          },
+          {
+            "colour": "#36483b",
+            "name": "WORLD LANGUAGES: JAPANESE",
+            "size": 5
+          }
+        ]
+      },
+      {
+        "colour": "#667A66",
+        "name": "STUDENT ADVISING",
+        "children": [
+          {
+            "colour": "#667A66",
+            "name": "MPA",
+            "size": 5
+          },
+          {
+            "colour": "#667A66",
+            "name": "NON PROFIT MANAGEMENT CERT",
+            "size": 5
+          },
+          {
+            "colour": "#667A66",
+            "name": "PAP, STUDENT COMS",
+            "size": 5
+          }
+        ]
+      },
+      {
+        "colour": "#C0CCC0",
+        "name": "RESEARCH/SCHOL.",
+        "children": [
+          {
+            "colour": "#C0CCC0",
+            "name": "DIVERSITY",
+            "size": 5
+          },
+          {
+            "colour": "#C0CCC0",
+            "name": "LOCAL GOVERNMENT",
+            "size": 5
+          },
+          {
+            "colour": "#C0CCC0",
+            "name": "CIVIC ENGAGEMENT",
+            "size": 5
+          },
+          {
+            "colour": "#C0CCC0",
+            "name": "RESEARCH METHODS TEXTBOOK",
+            "size": 5
+          },
+          {
+            "colour": "#C0CCC0",
+            "name": "PAPERS PLACEHOLDER",
+            "size": 5
+          }
+        ]
+      },
+      {
+        "colour": "#ae4a1c",
+        "name": "COLLABORATIONS/-PARTNERS",
+        "children": [
+          {
+            "colour": "#ae4a1c",
+            "name": "JPN LOC GOVT MGT TRAIN PROG",
+            "size": 5
+          },
+          {
+            "colour": "#ae4a1c",
+            "name": "SEOUL METRO GOVT PROG",
+            "size": 5
+          },
+          {
+            "colour": "#ae4a1c",
+            "name": "OR BD MASSAGE THERAPISTS",
+            "size": 5
+          },
+          {
+            "colour": "#ae4a1c",
+            "name": "PORTLAND POLICE BUREAU",
+            "size": 5
+          },
+          {
+            "colour": "#ae4a1c",
+            "name": "CLACKAMAS COUNTY",
+            "size": 5
+          },
+          {
+            "colour": "#ae4a1c",
+            "name": "CITY OF BEAVERTON",
+            "size": 5
+          },
+          {
+            "colour": "#ae4a1c",
+            "name": "OR DEPT ADMIN SERVS",
+            "size": 5
+          },
+          {
+            "colour": "#ae4a1c",
+            "name": "TUALATIN HILLS PARK & REC",
+            "size": 5
+          },
+          {
+            "colour": "#ae4a1c",
+            "name": "JAPAN AMERICAN SOC OF OR",
+            "size": 5
+          }
+        ]
+      },
+      {
+        "colour": "#fd8d3c",
+        "name": "INTERNAL COMS &-TASK FORCES",
+        "children": [
+          {
+            "colour": "#fd8d3c",
+            "name": "ASPA INTER GOVTL ADMIN/MGMT, BD",
+            "size": 5
+          },
+          {
+            "colour": "#fd8d3c",
+            "name": "DIVERSITY ACTION COM, PSU",
+            "size": 5
+          },
+          {
+            "colour": "#fd8d3c",
+            "name": "DIVERSITY ACTION COUNCIL, PSU",
+            "size": 5
+          },
+          {
+            "colour": "#fd8d3c",
+            "name": "TOKYO FOUNDATION, ADVIS COM",
+            "size": 5
+          },
+          {
+            "colour": "#fd8d3c",
+            "name": "CENTER FOR JAPANESE STUD, PSU",
+            "size": 5
+          }
+        ]
+      },
+      {
+        "colour": "#fdbe85",
+        "name": "ADMINISTERS",
+        "children": [
+          {
+            "colour": "#fdbe85",
+            "name": "CTR FOR PUB SERV, ASSOC DIR",
             "size": 50
           }
         ]
