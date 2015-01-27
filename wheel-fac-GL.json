@@ -797,6 +797,11 @@
         "children": [
           {
             "colour": "#667A66",
+            "name": "EMPA",
+            "size": 5
+          },
+          {
+            "colour": "#667A66",
             "name": "MPA",
             "size": 5
           },
@@ -874,7 +879,7 @@
         "children": [
           {
             "colour": "#ae4a1c",
-            "name": "JPN LOC GOVT MGT TRAIN PROG",
+            "name": "TOKYO FNDN JPN LOC GOVT MGMT TRAIN PROG",
             "size": 5
           },
           {
@@ -930,7 +935,7 @@
           },
           {
             "colour": "#fd8d3c",
-            "name": "DIVERSITY ACTION COM, PSU",
+            "name": "DIVERSITY COMMITTEE, PA, PSU",
             "size": 5
           },
           {
@@ -940,12 +945,12 @@
           },
           {
             "colour": "#fd8d3c",
-            "name": "TOKYO FOUNDATION, ADVIS COM",
+            "name": "TOKYO FOUNDATION, ADVISORY COM",
             "size": 5
           },
           {
             "colour": "#fd8d3c",
-            "name": "CENTER FOR JAPANESE STUD, PSU",
+            "name": "CENTER FOR JAPANESE STUDIES, PSU",
             "size": 5
           }
         ]
@@ -956,7 +961,7 @@
         "children": [
           {
             "colour": "#fdbe85",
-            "name": "CTR FOR PUB SERV, ASSOC DIR",
+            "name": "CENTER FOR PUBLIC SERVICE, ASSOC DIR",
             "size": 50
           }
         ]
