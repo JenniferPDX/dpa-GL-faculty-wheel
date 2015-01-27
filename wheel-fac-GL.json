@@ -627,17 +627,17 @@
         "children": [
           {
             "colour": "#C0CCC0",
-            "name": "XX",
+            "name": "$300K/YR US DEPT OF STATE/MEPI GRANT)",
             "size": 5
           },
           {
             "colour": "#C0CCC0",
-            "name": "YY",
+            "name": "PLACEHOLDER",
             "size": 5
           },
           {
             "colour": "#C0CCC0",
-            "name": "ZZ",
+            "name": "PLACEHOLDER",
             "size": 5
           }
         ]
@@ -653,12 +653,17 @@
           },
           {
             "colour": "#ae4a1c",
-            "name": "YY",
+            "name": "COP OFFICE OF NEIGHBORHOOD INVOLVEMENT",
             "size": 5
           },
           {
             "colour": "#ae4a1c",
-            "name": "ZZ",
+            "name": "MERCY CORP",
+            "size": 5
+          },
+          {
+            "colour": "#ae4a1c",
+            "name": "INSTITUTE OF SUSTATINABLE SOLUTIONS",
             "size": 5
           }
         ]
@@ -674,6 +679,11 @@
           },
           {
             "colour": "#fd8d3c",
+            "name": "FLEX DEGREE PROPOSAL, LEAD",
+            "size": 50
+          },
+          {
+            "colour": "#fd8d3c",
             "name": "STUDENT ASSESSMENT COM",
             "size": 5
           },
@@ -684,7 +694,12 @@
           },
           {
             "colour": "#fd8d3c",
-            "name": "U Wide PARTNERSHIPS COUNCIL",
+            "name": "P AND T REVISION COM",
+            "size": 5
+          },
+          {
+            "colour": "#fd8d3c",
+            "name": "U-WIDE PARTNERSHIPS COUNCIL",
             "size": 5
           }
         ]
