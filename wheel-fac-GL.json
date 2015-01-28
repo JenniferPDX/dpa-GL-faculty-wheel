@@ -13,16 +13,6 @@
           },
           {
             "colour": "#36483b",
-            "name": "Global Leadership",
-            "size": 5
-          },
-          {
-            "colour": "#36483b",
-            "name": "PA 505",
-            "size": 5
-          },
-          {
-            "colour": "#36483b",
             "name": "PA 510: IMMIGRATION & CITIZENSHIP",
             "size": 5
           },
@@ -279,11 +269,6 @@
         "children": [
           {
             "colour": "#36483b",
-            "name": "MPA",
-            "size": 5
-          },
-          {
-            "colour": "#36483b",
             "name": "EMPA",
             "size": 5
           },
@@ -295,11 +280,6 @@
           {
             "colour": "#36483b",
             "name": "PA 504: INTERNSHIP",
-            "size": 5
-          },
-          {
-            "colour": "#36483b",
-            "name": "PA 505: R & C",
             "size": 5
           },
           {
@@ -550,11 +530,6 @@
           },
           {
             "colour": "#36483b",
-            "name": "GLOBAL LEADERSHIP",
-            "size": 5
-          },
-          {
-            "colour": "#36483b",
             "name": "PA 311: INTRO CIVIC ENGAGEMENT",
             "size": 5
           },
@@ -586,11 +561,6 @@
           {
             "colour": "#36483b",
             "name": "PA 415: CIVIC LDRSHP INTEGRATIVE SEM",
-            "size": 5
-          },
-          {
-            "colour": "#36483b",
-            "name": "PA 505",
             "size": 5
           },
           {
@@ -628,16 +598,6 @@
           {
             "colour": "#C0CCC0",
             "name": "$300K/YR US DEPT OF STATE/MEPI GRANT)",
-            "size": 5
-          },
-          {
-            "colour": "#C0CCC0",
-            "name": "PLACEHOLDER",
-            "size": 5
-          },
-          {
-            "colour": "#C0CCC0",
-            "name": "PLACEHOLDER",
             "size": 5
           }
         ]
@@ -746,11 +706,6 @@
           },
           {
             "colour": "#36483b",
-            "name": "PA 505",
-            "size": 5
-          },
-          {
-            "colour": "#36483b",
             "name": "PA 506: PROJ: SUPERVISN MLTCLTR",
             "size": 5
           },
@@ -767,11 +722,6 @@
           {
             "colour": "#36483b",
             "name": "PA 510: INTERNATIONAL FIELD EXP",
-            "size": 5
-          },
-          {
-            "colour": "#36483b",
-            "name": "PA 512: REFL PRACT, CASE ANALYSIS",
             "size": 5
           },
           {
@@ -796,7 +746,7 @@
           },
           {
             "colour": "#36483b",
-            "name": "PA 594: ENHANCING DIVERSITY IN WORKPLACE",
+            "name": "PA 594: ENHANC DIVERSITY/ WORKPLACE",
             "size": 5
           },
           {
