@@ -48,11 +48,6 @@
           },
           {
             "colour": "#36483b",
-            "name": "PA 603",
-            "size": 5
-          },
-          {
-            "colour": "#36483b",
             "name": "PS 353: INTRO LATIN AM STUDIES",
             "size": 5
           },
@@ -63,7 +58,7 @@
           },
           {
             "colour": "#36483b",
-            "name": "PAP 603",
+            "name": "UNST 421: HEALTH AND MIGRATION",
             "size": 5
           }
         ]
@@ -115,7 +110,7 @@
           },
           {
             "colour": "#C0CCC0",
-            "name": "PLACE, ADAPTATN, ID: CULT LANDSCP",
+            "name": "PLACE, ADAPTATN, ID, CULT LANDSCP",
             "size": 5
           },
           {
@@ -129,6 +124,36 @@
         "colour": "#ae4a1c",
         "name": "COLLABORATIONS/=PARTNERS",
         "children": [
+          {
+            "colour": "#ae4a1c",
+            "name": "WORLD HERITAGE SITES",
+            "size": 5
+          },
+          {
+            "colour": "#ae4a1c",
+            "name": "INTER-AM NETWORK PUB AD ED",
+            "size": 5
+          },
+          {
+            "colour": "#ae4a1c",
+            "name": "NATIONAL PARK SERVICE",
+            "size": 5
+          },
+          {
+            "colour": "#ae4a1c",
+            "name": "US FISH & WILDLIFE SERVICE",
+            "size": 5
+          },
+          {
+            "colour": "#ae4a1c",
+            "name": "HISPANIC SERVICES",
+            "size": 5
+          },
+          {
+            "colour": "#ae4a1c",
+            "name": "JACKSON BOTTOM WETLANDS PRES",
+            "size": 5
+          },
           {
             "colour": "#ae4a1c",
             "name": "WELTE INST, OAXACAN STUDIES, ED",
@@ -167,36 +192,6 @@
           {
             "colour": "#ae4a1c",
             "name": "PNW CANADIAN STUDIES CON",
-            "size": 5
-          },
-          {
-            "colour": "#ae4a1c",
-            "name": "INTER-AM NETWORK PUB AD ED",
-            "size": 5
-          },
-          {
-            "colour": "#ae4a1c",
-            "name": "WORLD HERITAGE SITES",
-            "size": 5
-          },
-          {
-            "colour": "#ae4a1c",
-            "name": "HISPANIC SERVICES",
-            "size": 5
-          },
-          {
-            "colour": "#ae4a1c",
-            "name": "JACKSON BOTTOM WETLANDS PRES",
-            "size": 5
-          },
-          {
-            "colour": "#ae4a1c",
-            "name": "NATIONAL PARK SERVICE",
-            "size": 5
-          },
-          {
-            "colour": "#ae4a1c",
-            "name": "US FISH AND WILDLIFE SERVICE",
             "size": 5
           }
         ]
@@ -269,11 +264,6 @@
           },
           {
             "colour": "#36483b",
-            "name": "PA 504: INTERNSHIP",
-            "size": 5
-          },
-          {
-            "colour": "#36483b",
             "name": "PA 510: PUB LSHP & CULT COMPTENCY",
             "size": 5
           },
@@ -310,11 +300,6 @@
           {
             "colour": "#36483b",
             "name": "PA 710: SPST: NAVIGATING POLITY NTWRKS",
-            "size": 5
-          },
-          {
-            "colour": "#36483b",
-            "name": "PAP 603",
             "size": 5
           }
         ]
@@ -372,12 +357,47 @@
         "children": [
           {
             "colour": "#ae4a1c",
-            "name": "CENTER FOR PUB SER (HATFIELD)",
+            "name": "ARMY CORPS OF ENGINEERS",
+            "size": 5
+          },
+          {
+            "colour": "#ae4a1c",
+            "name": "PEACE CORP",
+            "size": 5
+          },
+          {
+            "colour": "#ae4a1c",
+            "name": "MERCY CORP",
             "size": 5
           },
           {
             "colour": "#ae4a1c",
             "name": "CLACKAMAS COUNTY",
+            "size": 5
+          },
+          {
+            "colour": "#ae4a1c",
+            "name": "BPA",
+            "size": 5
+          },
+          {
+            "colour": "#ae4a1c",
+            "name": "COLUMBIA SPORTS",
+            "size": 5
+          },
+          {
+            "colour": "#ae4a1c",
+            "name": "INTEL",
+            "size": 5
+          },
+          {
+            "colour": "#ae4a1c",
+            "name": "NIKE",
+            "size": 5
+          },
+          {
+            "colour": "#ae4a1c",
+            "name": "CENTER FOR PUB SER (HATFIELD)",
             "size": 5
           },
           {
@@ -413,41 +433,6 @@
           {
             "colour": "#ae4a1c",
             "name": "ACADEMY FOR POLICY, VN",
-            "size": 5
-          },
-          {
-            "colour": "#ae4a1c",
-            "name": "MERCY CORP",
-            "size": 5
-          },
-          {
-            "colour": "#ae4a1c",
-            "name": "PEACE CORP",
-            "size": 5
-          },
-          {
-            "colour": "#ae4a1c",
-            "name": "ARMY CORPS OF ENGINEERS",
-            "size": 5
-          },
-          {
-            "colour": "#ae4a1c",
-            "name": "BPA",
-            "size": 5
-          },
-          {
-            "colour": "#ae4a1c",
-            "name": "INTEL",
-            "size": 5
-          },
-          {
-            "colour": "#ae4a1c",
-            "name": "NIKE",
-            "size": 5
-          },
-          {
-            "colour": "#ae4a1c",
-            "name": "COLUMBIA SPORTS",
             "size": 5
           }
         ]
@@ -515,7 +500,12 @@
         "children": [
           {
             "colour": "#36483b",
-            "name": "CIVIC LEADERSHIP",
+            "name": "CIVIC LEADERSHIP MINOR",
+            "size": 5
+          },
+          {
+            "colour": "#36483b",
+            "name": "NON PROFIT MGT CERT",
             "size": 5
           },
           {
@@ -526,16 +516,6 @@
           {
             "colour": "#36483b",
             "name": "PA 312: FOUND OF COMM LEADERSHIP",
-            "size": 5
-          },
-          {
-            "colour": "#36483b",
-            "name": "PA 402: IS: CIVIC LEADERSHIP",
-            "size": 5
-          },
-          {
-            "colour": "#36483b",
-            "name": "PA 409: PRACTICUM",
             "size": 5
           },
           {
@@ -582,7 +562,12 @@
         "children": [
           {
             "colour": "#C0CCC0",
-            "name": "$300K/YR US DEPT OF STATE/MEPI GRANT)",
+            "name": "MEPI, US DEPT STATE, 300K/YR:4YR",
+            "size": 5
+          },
+          {
+            "colour": "#C0CCC0",
+            "name": "COM ENGAG FAC TRAIN, EL TEC, 25K/YR:2YR",
             "size": 5
           }
         ]
@@ -599,6 +584,11 @@
           {
             "colour": "#ae4a1c",
             "name": "COP OFFICE OF NEIGHBORHOOD INVOLVEMENT",
+            "size": 5
+          },
+          {
+            "colour": "#ae4a1c",
+            "name": "EL TECNOLOGICO DE MONTERREY",
             "size": 5
           },
           {
@@ -681,17 +671,7 @@
           },
           {
             "colour": "#36483b",
-            "name": "DIVERSITY",
-            "size": 5
-          },
-          {
-            "colour": "#36483b",
             "name": "INTERCULTURAL COMMUNICATION",
-            "size": 5
-          },
-          {
-            "colour": "#36483b",
-            "name": "PA 506: PROJ: SUPERVISN MLTCLTR",
             "size": 5
           },
           {
