@@ -8,6 +8,21 @@
         "children": [
           {
             "colour": "#36483b",
+            "name": "OAXACA TEACHING PROGRAM",
+            "size": 5
+          },
+          {
+            "colour": "#36483b",
+            "name": "NON PROFIT MANAGEMENT CERT",
+            "size": 5
+          },
+          {
+            "colour": "#36483b",
+            "name": "ADDITIONAL UG COURSES",
+            "size": 5
+          },
+          {
+            "colour": "#36483b",
             "name": "PA 510: IMMIGRATION & CITIZENSHIP",
             "size": 5
           },
@@ -48,17 +63,12 @@
           },
           {
             "colour": "#36483b",
-            "name": "PS 353: INTRO LATIN AM STUDIES",
+            "name": "PA 603",
             "size": 5
           },
           {
             "colour": "#36483b",
-            "name": "PS 399: US / MEXICAN RELATIONS",
-            "size": 5
-          },
-          {
-            "colour": "#36483b",
-            "name": "UNST 421: HEALTH AND MIGRATION",
+            "name": "PAP 603",
             "size": 5
           }
         ]
@@ -79,7 +89,7 @@
           },
           {
             "colour": "#667A66",
-            "name": "PHD:PAP",
+            "name": "PAP",
             "size": 5
           }
         ]
@@ -243,7 +253,7 @@
         "children": [
           {
             "colour": "#fdbe85",
-            "name": "OAXACA PROGRAM, DIRECTOR",
+            "name": "OAXACA PROGRAM, DIR",
             "size": 5
           }
         ]
@@ -260,6 +270,16 @@
           {
             "colour": "#36483b",
             "name": "EMPA",
+            "size": 5
+          },
+          {
+            "colour": "#36483b",
+            "name": "NON PROFIT MANAGEMENT CERT",
+            "size": 5
+          },
+          {
+            "colour": "#36483b",
+            "name": "GLOBAL ENGAGEMENT",
             "size": 5
           },
           {
@@ -294,6 +314,11 @@
           },
           {
             "colour": "#36483b",
+            "name": "PA 603",
+            "size": 5
+          },
+          {
+            "colour": "#36483b",
             "name": "PA 710: SPST: FOUNDATNS OF EMERGE LDRS",
             "size": 5
           },
@@ -320,7 +345,7 @@
           },
           {
             "colour": "#667A66",
-            "name": "PAP/PHD",
+            "name": "PAP",
             "size": 5
           },
           {
@@ -443,6 +468,11 @@
         "children": [
           {
             "colour": "#fd8d3c",
+            "name": "CPS (HATFIELD)",
+            "size": 5
+          },
+          {
+            "colour": "#fd8d3c",
             "name": "VIET ADV COM",
             "size": 5
           },
@@ -500,7 +530,7 @@
         "children": [
           {
             "colour": "#36483b",
-            "name": "CIVIC LEADERSHIP MINOR",
+            "name": "CIVIC LEADERSHIP",
             "size": 5
           },
           {
@@ -510,22 +540,7 @@
           },
           {
             "colour": "#36483b",
-            "name": "PA 311: INTRO CIVIC ENGAGEMENT",
-            "size": 5
-          },
-          {
-            "colour": "#36483b",
-            "name": "PA 312: FOUND OF COMM LEADERSHIP",
-            "size": 5
-          },
-          {
-            "colour": "#36483b",
-            "name": "PA 411: FOUND CITIZENSHIP/COMM LDRS",
-            "size": 5
-          },
-          {
-            "colour": "#36483b",
-            "name": "PA 415: CIVIC LDRSHP INTEGRATIVE SEM",
+            "name": "ADDITIONAL UG COURSES",
             "size": 5
           },
           {
@@ -562,12 +577,22 @@
         "children": [
           {
             "colour": "#C0CCC0",
-            "name": "MEPI, US DEPT STATE, 300K/YR:4YR",
+            "name": "CPS (HATFIELD)",
             "size": 5
           },
           {
             "colour": "#C0CCC0",
-            "name": "COM ENGAG FAC TRAIN, EL TEC, 25K/YR:2YR",
+            "name": "MIDDLE EAST TRAIN, US ST DEPT",
+            "size": 5
+          },
+          {
+            "colour": "#C0CCC0",
+            "name": "PROF'L TRAIN/COM ENG, MEX FAC",
+            "size": 5
+          },
+          {
+            "colour": "#C0CCC0",
+            "name": "INT'L ASSOC/ CIVIC ENGAGE TRAIN",
             "size": 5
           }
         ]
@@ -636,6 +661,26 @@
             "colour": "#fd8d3c",
             "name": "U-WIDE PARTNERSHIPS COUNCIL",
             "size": 5
+          },
+          {
+            "colour": "#fd8d3c",
+            "name": "INT'L ASSOC RES COM ENGAGE, SEC CO CHAIR",
+            "size": 5
+          },
+          {
+            "colour": "#fd8d3c",
+            "name": "PA ALUMNI LIASON",
+            "size": 5
+          },
+          {
+            "colour": "#fd8d3c",
+            "name": "RAMALEY SCHOL COM",
+            "size": 5
+          },
+          {
+            "colour": "#fd8d3c",
+            "name": "COMPTNCIES RUBR GRP W/ SANDBERG, DPA",
+            "size": 5
           }
         ]
       },
@@ -671,7 +716,7 @@
           },
           {
             "colour": "#36483b",
-            "name": "INTERCULTURAL COMMUNICATION",
+            "name": "DIVERSITY/INTERCULTURAL COM",
             "size": 5
           },
           {
@@ -753,52 +798,37 @@
         "children": [
           {
             "colour": "#C0CCC0",
-            "name": "DIVERSITY",
+            "name": "CPS (HATFIELD)",
             "size": 5
           },
           {
             "colour": "#C0CCC0",
-            "name": "LOCAL GOVERNMENT",
+            "name": "CAPACITY BLDG FOR COMMON GOOD",
             "size": 5
           },
           {
             "colour": "#C0CCC0",
-            "name": "CIVIC ENGAGEMENT",
+            "name": "NEW PUB GOVERNANCE, CIVIC CAP",
             "size": 5
           },
           {
             "colour": "#C0CCC0",
-            "name": "RSRCH MTHDS, STATS FOR PUB, NP ADMINS",
+            "name": "LOCAL GOVERNMENT, CRIME RATE",
             "size": 5
           },
           {
             "colour": "#C0CCC0",
-            "name": "LOCAL GOVERNMENT DIVERSITY INITS IN OR",
+            "name": "TRADITIONS OF CIVIC ENGAGE,US",
             "size": 5
           },
           {
             "colour": "#C0CCC0",
-            "name": "CAPACITY BUILDING FOR COMMON GOOD",
+            "name": "INTERNATIONALIZATION AT PSU",
             "size": 5
           },
           {
             "colour": "#C0CCC0",
-            "name": "EDUCATING FOR NEW PUBLIC GOVERNANCE",
-            "size": 5
-          },
-          {
-            "colour": "#C0CCC0",
-            "name": "DO LOCAL GOVERNMENTS MATTER?",
-            "size": 5
-          },
-          {
-            "colour": "#C0CCC0",
-            "name": "LOOKNG BACK ON FOUNDNG: CIVIC ENG TRADS",
-            "size": 5
-          },
-          {
-            "colour": "#C0CCC0",
-            "name": "INSTNLZNG DIVERSTY, INTRNTNLZTN INIT AT PSU",
+            "name": "COMMISSION FORM OF GOVERNMENT",
             "size": 5
           }
         ]
@@ -807,6 +837,11 @@
         "colour": "#ae4a1c",
         "name": "COLLABORATIONS/=PARTNERS",
         "children": [
+          {
+            "colour": "#ae4a1c",
+            "name": "CPS (CORE FACULTY)",
+            "size": 5
+          },
           {
             "colour": "#ae4a1c",
             "name": "TOKYO FNDN JPN LOC GOVT MGMT TRAIN PROG",
