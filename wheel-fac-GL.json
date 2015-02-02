@@ -582,17 +582,42 @@
           },
           {
             "colour": "#C0CCC0",
-            "name": "MIDDLE EAST TRAIN, US ST DEPT",
-            "size": 5
-          },
-          {
-            "colour": "#C0CCC0",
-            "name": "PROF'L TRAIN/COM ENG, MEX FAC",
+            "name": "FACULTY DEV: COM ENGAGE",
             "size": 5
           },
           {
             "colour": "#C0CCC0",
             "name": "INT'L ASSOC/ CIVIC ENGAGE TRAIN",
+            "size": 5
+          },
+          {
+            "colour": "#C0CCC0",
+            "name": "CULTURAL THEORY",
+            "size": 5
+          },
+          {
+            "colour": "#C0CCC0",
+            "name": "SCHOLARSHIP OF ENGAGEMENT",
+            "size": 5
+          },
+          {
+            "colour": "#C0CCC0",
+            "name": "COMMUNITY-BASED RESEARCH",
+            "size": 5
+          },
+          {
+            "colour": "#C0CCC0",
+            "name": "STUDENT (CIVIC) LEADERSHIP DEV",
+            "size": 5
+          },
+          {
+            "colour": "#C0CCC0",
+            "name": "INTERNATIONAL PROGRAM DEV",
+            "size": 5
+          },
+          {
+            "colour": "#C0CCC0",
+            "name": "SOCIAL SUSTAINABILITY",
             "size": 5
           }
         ]
@@ -601,6 +626,11 @@
         "colour": "#ae4a1c",
         "name": "COLLABORATIONS/=PARTNERS",
         "children": [
+          {
+            "colour": "#ae4a1c",
+            "name": "US ST DEPT, MIDDLE EAST PARTNERSHP INIT",
+            "size": 5
+          },
           {
             "colour": "#ae4a1c",
             "name": "INTERNATIONALIZATION COUNCIL",
@@ -623,7 +653,12 @@
           },
           {
             "colour": "#ae4a1c",
-            "name": "INSTITUTE OF SUSTATINABLE SOLUTIONS",
+            "name": "ISS, NEIGHBORHOOD INIT",
+            "size": 5
+          },
+          {
+            "colour": "#ae4a1c",
+            "name": "OR ST COM, CIVIC ENGAGEMENT",
             "size": 5
           }
         ]
@@ -675,6 +710,11 @@
           {
             "colour": "#fd8d3c",
             "name": "RAMALEY SCHOL COM",
+            "size": 5
+          },
+          {
+            "colour": "#fd8d3c",
+            "name": "JRNL PUB SCHOL HIGH ED, SR ED BRD",
             "size": 5
           },
           {
@@ -799,6 +839,11 @@
           {
             "colour": "#C0CCC0",
             "name": "CPS (HATFIELD)",
+            "size": 5
+          },
+          {
+            "colour": "#C0CCC0",
+            "name": "EQUITY, DIVERSITY, INCLUSION",
             "size": 5
           },
           {
