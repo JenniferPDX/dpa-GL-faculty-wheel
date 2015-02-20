@@ -6,256 +6,80 @@
         "colour": "#36483b",
         "name": "TEACHING/=GENERAL & GL",
         "children": [
-          {
-            "colour": "#36483b",
-            "name": "OAXACA TEACHING PROGRAM",
-            "size": 5
-          },
-          {
-            "colour": "#36483b",
-            "name": "NON PROFIT MANAGEMENT CERT",
-            "size": 5
-          },
-          {
-            "colour": "#36483b",
-            "name": "ADDITIONAL UG COURSES",
-            "size": 5
-          },
-          {
-            "colour": "#36483b",
-            "name": "PA 510: IMMIGRATION & CITIZENSHIP",
-            "size": 5
-          },
-          {
-            "colour": "#36483b",
-            "name": "PA 511: PUBLIC ADMINISTRATN",
-            "size": 5
-          },
-          {
-            "colour": "#36483b",
-            "name": "PA 516: CURRENT ISS/PUBLIC MGMT",
-            "size": 5
-          },
-          {
-            "colour": "#36483b",
-            "name": "PA 529: OAXACA FIELD STUDY",
-            "size": 5
-          },
-          {
-            "colour": "#36483b",
-            "name": "PA 533: PUBLIC POL:ORIG/PROC",
-            "size": 5
-          },
-          {
-            "colour": "#36483b",
-            "name": "PA 534: ADMIN LAW/POLICY",
-            "size": 5
-          },
-          {
-            "colour": "#36483b",
-            "name": "PA 540: ADMIN THEORY/BEHAV",
-            "size": 5
-          },
-          {
-            "colour": "#36483b",
-            "name": "PA 563: CITIZENS & ADMIN",
-            "size": 5
-          },
-          {
-            "colour": "#36483b",
-            "name": "PA 603",
-            "size": 5
-          },
-          {
-            "colour": "#36483b",
-            "name": "PAP 603",
-            "size": 5
-          }
+          { "colour": "#36483b", "name": "OAXACA TEACHING PROGRAM", "size": 5 },
+          { "colour": "#36483b", "name": "NON PROFIT MANAGEMENT CERT", "size": 5 },
+          { "colour": "#36483b", "name": "ADDITIONAL UG COURSES", "size": 5 },
+          { "colour": "#36483b", "name": "PA 510: IMMIGRATION & CITIZENSHIP", "size": 5 },
+          { "colour": "#36483b", "name": "PA 511: PUBLIC ADMINISTRATN", "size": 5 },
+          { "colour": "#36483b", "name": "PA 516: CURRENT ISS/PUBLIC MGMT", "size": 5 },
+          { "colour": "#36483b", "name": "PA 529: OAXACA FIELD STUDY", "size": 5 },
+          { "colour": "#36483b", "name": "PA 533: PUBLIC POL:ORIG/PROC", "size": 5 },
+          { "colour": "#36483b", "name": "PA 534: ADMIN LAW/POLICY", "size": 5 },
+          { "colour": "#36483b", "name": "PA 540: ADMIN THEORY/BEHAV", "size": 5 },
+          { "colour": "#36483b", "name": "PA 563: CITIZENS & ADMIN", "size": 5 },
+          { "colour": "#36483b", "name": "PA 603", "size": 5 },
+          { "colour": "#36483b", "name": "PAP 603", "size": 5 }
         ]
       },
       {
         "colour": "#667A66",
         "name": "STUDENT ADVISING",
         "children": [
-          {
-            "colour": "#667A66",
-            "name": "UNDERGRAD: MCNAIR, HONORS COL",
-            "size": 5
-          },
-          {
-            "colour": "#667A66",
-            "name": "MPA",
-            "size": 5
-          },
-          {
-            "colour": "#667A66",
-            "name": "PAP",
-            "size": 5
-          }
+          { "colour": "#667A66", "name": "UNDERGRAD: MCNAIR, HONORS COL", "size": 5 },
+          { "colour": "#667A66", "name": "MPA", "size": 5 },
+          { "colour": "#667A66", "name": "PAP", "size": 5 }
         ]
       },
       {
         "colour": "#C0CCC0",
         "name": "RESEARCH/SCHOL.",
         "children": [
-          {
-            "colour": "#C0CCC0",
-            "name": "ECO LDRSHP THRU IMMIGRANT INC",
-            "size": 5
-          },
-          {
-            "colour": "#C0CCC0",
-            "name": "ENV OUTREACH: SP SPEAKING POP",
-            "size": 5
-          },
-          {
-            "colour": "#C0CCC0",
-            "name": "COM STRAT: MGMT, WRLD HERITG SITES",
-            "size": 5
-          },
-          {
-            "colour": "#C0CCC0",
-            "name": "MONTE ALBAN'S SISTER PARKS INIT",
-            "size": 5
-          },
-          {
-            "colour": "#C0CCC0",
-            "name": "PLACE, ADAPTATN, ID, CULT LANDSCP",
-            "size": 5
-          },
-          {
-            "colour": "#C0CCC0",
-            "name": "INTERNATIONALIZING PA",
-            "size": 5
-          }
+          { "colour": "#C0CCC0", "name": "ECO LDRSHP THRU IMMIGRANT INC", "size": 5 },
+          { "colour": "#C0CCC0", "name": "ENV OUTREACH: SP SPEAKING POP", "size": 5 },
+          { "colour": "#C0CCC0", "name": "COM STRAT: MGMT, WRLD HERITG SITES", "size": 5 },
+          { "colour": "#C0CCC0", "name": "MONTE ALBAN'S SISTER PARKS INIT", "size": 5 },
+          { "colour": "#C0CCC0", "name": "PLACE, ADAPTATN, ID, CULT LANDSCP", "size": 5 },
+          { "colour": "#C0CCC0", "name": "INTERNATIONALIZING PA", "size": 5 }
         ]
       },
       {
         "colour": "#ae4a1c",
         "name": "COLLABORATIONS/=PARTNERS",
         "children": [
-          {
-            "colour": "#ae4a1c",
-            "name": "WORLD HERITAGE SITES",
-            "size": 5
-          },
-          {
-            "colour": "#ae4a1c",
-            "name": "INTER-AM NETWORK PUB AD ED",
-            "size": 5
-          },
-          {
-            "colour": "#ae4a1c",
-            "name": "NATIONAL PARK SERVICE",
-            "size": 5
-          },
-          {
-            "colour": "#ae4a1c",
-            "name": "US FISH & WILDLIFE SERVICE",
-            "size": 5
-          },
-          {
-            "colour": "#ae4a1c",
-            "name": "HISPANIC SERVICES",
-            "size": 5
-          },
-          {
-            "colour": "#ae4a1c",
-            "name": "JACKSON BOTTOM WETLANDS PRES",
-            "size": 5
-          },
-          {
-            "colour": "#ae4a1c",
-            "name": "WELTE INST, OAXACAN STUDIES, ED",
-            "size": 5
-          },
-          {
-            "colour": "#ae4a1c",
-            "name": "MEXICAN UNIVERSITY RELATIONS",
-            "size": 5
-          },
-          {
-            "colour": "#ae4a1c",
-            "name": "MEXICAN NGOS",
-            "size": 5
-          },
-          {
-            "colour": "#ae4a1c",
-            "name": "NAT'L INST ANTHRO/HISTORY, MEX",
-            "size": 5
-          },
-          {
-            "colour": "#ae4a1c",
-            "name": "UNION OF COMMUNITY MUSEUMS",
-            "size": 5
-          },
-          {
-            "colour": "#ae4a1c",
-            "name": "CANADIAN UNIVERSITY RELATIONS",
-            "size": 5
-          },
-          {
-            "colour": "#ae4a1c",
-            "name": "FULBRIGHT CANADA",
-            "size": 5
-          },
-          {
-            "colour": "#ae4a1c",
-            "name": "PNW CANADIAN STUDIES CON",
-            "size": 5
-          }
+          { "colour": "#ae4a1c", "name": "WORLD HERITAGE SITES", "size": 5 },
+          { "colour": "#ae4a1c", "name": "INTER-AM NETWORK PUB AD ED", "size": 5 },
+          { "colour": "#ae4a1c", "name": "NATIONAL PARK SERVICE", "size": 5 },
+          { "colour": "#ae4a1c", "name": "US FISH & WILDLIFE SERVICE", "size": 5 },
+          { "colour": "#ae4a1c", "name": "HISPANIC SERVICES", "size": 5 },
+          { "colour": "#ae4a1c", "name": "JACKSON BOTTOM WETLANDS PRES", "size": 5 },
+          { "colour": "#ae4a1c", "name": "WELTE INST, OAXACAN STUDIES, ED", "size": 5 },
+          { "colour": "#ae4a1c", "name": "MEXICAN UNIVERSITY RELATIONS", "size": 5 },
+          { "colour": "#ae4a1c", "name": "MEXICAN NGOS", "size": 5 },
+          { "colour": "#ae4a1c", "name": "NAT'L INST ANTHRO/HISTORY, MEX", "size": 5 },
+          { "colour": "#ae4a1c", "name": "UNION OF COMMUNITY MUSEUMS", "size": 5 },
+          { "colour": "#ae4a1c", "name": "CANADIAN UNIVERSITY RELATIONS", "size": 5 },
+          { "colour": "#ae4a1c", "name": "FULBRIGHT CANADA", "size": 5 },
+          { "colour": "#ae4a1c", "name": "PNW CANADIAN STUDIES CON", "size": 5 }
         ]
       },
       {
         "colour": "#fd8d3c",
         "name": "COMS &=TASK FORCES",
         "children": [
-          {
-            "colour": "#fd8d3c",
-            "name": "UNIVERSITY LIBRARY COM",
-            "size": 5
-          },
-          {
-            "colour": "#fd8d3c",
-            "name": "INTERNATIONALIZATION COM",
-            "size": 5
-          },
-          {
-            "colour": "#fd8d3c",
-            "name": "FACULTY P&T COM",
-            "size": 5
-          },
-          {
-            "colour": "#fd8d3c",
-            "name": "DEAN'S T/F INTERNATIONALIZATION",
-            "size": 5
-          },
-          {
-            "colour": "#fd8d3c",
-            "name": "ISS T / F FOOD CERT FRAMEWK, INT'L",
-            "size": 5
-          },
-          {
-            "colour": "#fd8d3c",
-            "name": "SPAN LANG CERT IN SUSTAINABILITY",
-            "size": 5
-          },
-          {
-            "colour": "#fd8d3c",
-            "name": "PA LIBRARY REPRESENTATIVE",
-            "size": 5
-          }
+          { "colour": "#fd8d3c", "name": "UNIVERSITY LIBRARY COM", "size": 5 },
+          { "colour": "#fd8d3c", "name": "INTERNATIONALIZATION COM", "size": 5 },
+          { "colour": "#fd8d3c", "name": "FACULTY P&T COM", "size": 5 },
+          { "colour": "#fd8d3c", "name": "DEAN'S T/F INTERNATIONALIZATION", "size": 5 },
+          { "colour": "#fd8d3c", "name": "ISS T / F FOOD CERT FRAMEWK, INT'L", "size": 5 },
+          { "colour": "#fd8d3c", "name": "SPAN LANG CERT IN SUSTAINABILITY", "size": 5 },
+          { "colour": "#fd8d3c", "name": "PA LIBRARY REPRESENTATIVE", "size": 5 }
         ]
       },
       {
         "colour": "#fdbe85",
         "name": "ADMINISTERS",
         "children": [
-          {
-            "colour": "#fdbe85",
-            "name": "OAXACA PROGRAM, DIR",
-            "size": 5
-          }
+          { "colour": "#fdbe85", "name": "OAXACA PROGRAM, DIR", "size": 5 }
         ]
       }
     ]
@@ -267,256 +91,80 @@
         "colour": "#36483b",
         "name": "TEACHING/=GLOBAL LEADER",
         "children": [
-          {
-            "colour": "#36483b",
-            "name": "EMPA",
-            "size": 5
-          },
-          {
-            "colour": "#36483b",
-            "name": "NON PROFIT MANAGEMENT CERT",
-            "size": 5
-          },
-          {
-            "colour": "#36483b",
-            "name": "GLOBAL ENGAGEMENT",
-            "size": 5
-          },
-          {
-            "colour": "#36483b",
-            "name": "PA 510: PUB LSHP & CULT COMPTENCY",
-            "size": 5
-          },
-          {
-            "colour": "#36483b",
-            "name": "PA 510: INTERNATIONAL FIELD EXP",
-            "size": 5
-          },
-          {
-            "colour": "#36483b",
-            "name": "PA 510: INTL FLD EXPRNCE VIETNAM",
-            "size": 5
-          },
-          {
-            "colour": "#36483b",
-            "name": "PA 514: GLOBAL LEADERSHIP & MGMT",
-            "size": 5
-          },
-          {
-            "colour": "#36483b",
-            "name": "PA 517: LDRSHP DEV/PUB ORGS",
-            "size": 5
-          },
-          {
-            "colour": "#36483b",
-            "name": "PA 558: MANAGING PUBLIC PROJECTS",
-            "size": 5
-          },
-          {
-            "colour": "#36483b",
-            "name": "PA 603",
-            "size": 5
-          },
-          {
-            "colour": "#36483b",
-            "name": "PA 710: SPST: FOUNDATNS OF EMERGE LDRS",
-            "size": 5
-          },
-          {
-            "colour": "#36483b",
-            "name": "PA 710: SPST: NAVIGATING POLITY NTWRKS",
-            "size": 5
-          }
+          { "colour": "#36483b", "name": "EMPA", "size": 5 },
+          { "colour": "#36483b", "name": "NON PROFIT MANAGEMENT CERT", "size": 5 },
+          { "colour": "#36483b", "name": "GLOBAL ENGAGEMENT", "size": 5 },
+          { "colour": "#36483b", "name": "PA 510: PUB LSHP & CULT COMPTENCY", "size": 5 },
+          { "colour": "#36483b", "name": "PA 510: INTERNATIONAL FIELD EXP", "size": 5 },
+          { "colour": "#36483b", "name": "PA 510: INTL FLD EXPRNCE VIETNAM", "size": 5 },
+          { "colour": "#36483b", "name": "PA 514: GLOBAL LEADERSHIP & MGMT", "size": 5 },
+          { "colour": "#36483b", "name": "PA 517: LDRSHP DEV/PUB ORGS", "size": 5 },
+          { "colour": "#36483b", "name": "PA 558: MANAGING PUBLIC PROJECTS", "size": 5 },
+          { "colour": "#36483b", "name": "PA 603", "size": 5 },
+          { "colour": "#36483b", "name": "PA 710: SPST: FOUNDATNS OF EMERGE LDRS", "size": 5 },
+          { "colour": "#36483b", "name": "PA 710: SPST: NAVIGATING POLITY NTWRKS", "size": 5 }
         ]
       },
       {
         "colour": "#667A66",
         "name": "STUDENT ADVISING",
         "children": [
-          {
-            "colour": "#667A66",
-            "name": "MPA",
-            "size": 5
-          },
-          {
-            "colour": "#667A66",
-            "name": "EMPA",
-            "size": 5
-          },
-          {
-            "colour": "#667A66",
-            "name": "PAP",
-            "size": 5
-          },
-          {
-            "colour": "#667A66",
-            "name": "INT'L MGT INTERNS",
-            "size": 5
-          }
+          { "colour": "#667A66", "name": "MPA", "size": 5 },
+          { "colour": "#667A66", "name": "EMPA", "size": 5 },
+          { "colour": "#667A66", "name": "PAP", "size": 5 },
+          { "colour": "#667A66", "name": "INT'L MGT INTERNS", "size": 5 }
         ]
       },
       {
         "colour": "#C0CCC0",
         "name": "RESEARCH/SCHOL.",
         "children": [
-          {
-            "colour": "#C0CCC0",
-            "name": "EMERGE LEADERSHIP BOOK",
-            "size": 5
-          },
-          {
-            "colour": "#C0CCC0",
-            "name": "INNOVATION-DRIVEN GOVERNANCE",
-            "size": 5
-          },
-          {
-            "colour": "#C0CCC0",
-            "name": "PUBLIC MORALITY TOOL",
-            "size": 5
-          }
+          { "colour": "#C0CCC0", "name": "EMERGE LEADERSHIP BOOK", "size": 5 },
+          { "colour": "#C0CCC0", "name": "INNOVATION-DRIVEN GOVERNANCE", "size": 5 },
+          { "colour": "#C0CCC0", "name": "PUBLIC MORALITY TOOL", "size": 5 }
         ]
       },
       {
         "colour": "#ae4a1c",
         "name": "COLLABORATIONS/=PARTNERS",
         "children": [
-          {
-            "colour": "#ae4a1c",
-            "name": "ARMY CORPS OF ENGINEERS",
-            "size": 5
-          },
-          {
-            "colour": "#ae4a1c",
-            "name": "PEACE CORP",
-            "size": 5
-          },
-          {
-            "colour": "#ae4a1c",
-            "name": "MERCY CORP",
-            "size": 5
-          },
-          {
-            "colour": "#ae4a1c",
-            "name": "CLACKAMAS COUNTY",
-            "size": 5
-          },
-          {
-            "colour": "#ae4a1c",
-            "name": "BPA",
-            "size": 5
-          },
-          {
-            "colour": "#ae4a1c",
-            "name": "COLUMBIA SPORTS",
-            "size": 5
-          },
-          {
-            "colour": "#ae4a1c",
-            "name": "INTEL",
-            "size": 5
-          },
-          {
-            "colour": "#ae4a1c",
-            "name": "NIKE",
-            "size": 5
-          },
-          {
-            "colour": "#ae4a1c",
-            "name": "CENTER FOR PUB SER (HATFIELD)",
-            "size": 5
-          },
-          {
-            "colour": "#ae4a1c",
-            "name": "HO CHI MINH ACAD VN",
-            "size": 5
-          },
-          {
-            "colour": "#ae4a1c",
-            "name": "UN HABITAT VN",
-            "size": 5
-          },
-          {
-            "colour": "#ae4a1c",
-            "name": "MCD VN",
-            "size": 5
-          },
-          {
-            "colour": "#ae4a1c",
-            "name": "OCD VN",
-            "size": 5
-          },
-          {
-            "colour": "#ae4a1c",
-            "name": "US MISSION VN",
-            "size": 5
-          },
-          {
-            "colour": "#ae4a1c",
-            "name": "QUANG NAM PROVINCE, VN",
-            "size": 5
-          },
-          {
-            "colour": "#ae4a1c",
-            "name": "ACADEMY FOR POLICY, VN",
-            "size": 5
-          }
+          { "colour": "#ae4a1c", "name": "ARMY CORPS OF ENGINEERS", "size": 5 },
+          { "colour": "#ae4a1c", "name": "PEACE CORP", "size": 5 },
+          { "colour": "#ae4a1c", "name": "MERCY CORP", "size": 5 },
+          { "colour": "#ae4a1c", "name": "CLACKAMAS COUNTY", "size": 5 },
+          { "colour": "#ae4a1c", "name": "BPA", "size": 5 },
+          { "colour": "#ae4a1c", "name": "COLUMBIA SPORTS", "size": 5 },
+          { "colour": "#ae4a1c", "name": "INTEL", "size": 5 },
+          { "colour": "#ae4a1c", "name": "NIKE", "size": 5 },
+          { "colour": "#ae4a1c", "name": "CENTER FOR PUB SER (HATFIELD)", "size": 5 },
+          { "colour": "#ae4a1c", "name": "HO CHI MINH ACAD VN", "size": 5 },
+          { "colour": "#ae4a1c", "name": "UN HABITAT VN", "size": 5 },
+          { "colour": "#ae4a1c", "name": "MCD VN", "size": 5 },
+          { "colour": "#ae4a1c", "name": "OCD VN", "size": 5 },
+          { "colour": "#ae4a1c", "name": "US MISSION VN", "size": 5 },
+          { "colour": "#ae4a1c", "name": "QUANG NAM PROVINCE, VN", "size": 5 },
+          { "colour": "#ae4a1c", "name": "ACADEMY FOR POLICY, VN", "size": 5 }
         ]
       },
       {
         "colour": "#fd8d3c",
         "name": "COMS &=TASK FORCES",
         "children": [
-          {
-            "colour": "#fd8d3c",
-            "name": "CPS (HATFIELD)",
-            "size": 5
-          },
-          {
-            "colour": "#fd8d3c",
-            "name": "VIET ADV COM",
-            "size": 5
-          },
-          {
-            "colour": "#fd8d3c",
-            "name": "ASPA INT'L/COMPARATIVE",
-            "size": 5
-          },
-          {
-            "colour": "#fd8d3c",
-            "name": "CUPA INTER STRATEGY",
-            "size": 5
-          },
-          {
-            "colour": "#fd8d3c",
-            "name": "VN-OR INITIATIVE",
-            "size": 5
-          },
-          {
-            "colour": "#fd8d3c",
-            "name": "SUCCESSION PLANNING",
-            "size": 5
-          }
+          { "colour": "#fd8d3c", "name": "CPS (HATFIELD)", "size": 5 },
+          { "colour": "#fd8d3c", "name": "VIET ADV COM", "size": 5 },
+          { "colour": "#fd8d3c", "name": "ASPA INT'L/COMPARATIVE", "size": 5 },
+          { "colour": "#fd8d3c", "name": "CUPA INTER STRATEGY", "size": 5 },
+          { "colour": "#fd8d3c", "name": "VN-OR INITIATIVE", "size": 5 },
+          { "colour": "#fd8d3c", "name": "SUCCESSION PLANNING", "size": 5 }
         ]
       },
       {
         "colour": "#fdbe85",
         "name": "ADMINISTERS",
         "children": [
-          {
-            "colour": "#fdbe85",
-            "name": "US STATE DEPT GRANT FOR VN 2014",
-            "size": 50
-          },
-          {
-            "colour": "#fdbe85",
-            "name": "CPS OREGON INNOVATION AWARD",
-            "size": 50
-          },
-          {
-            "colour": "#fdbe85",
-            "name": "INT'L PUB SERVICE, DIR",
-            "size": 50
-          }
+          { "colour": "#fdbe85", "name": "US STATE DEPT GRANT FOR VN 2014", "size": 5 },
+          { "colour": "#fdbe85", "name": "CPS OREGON INNOVATION AWARD", "size": 5 },
+          { "colour": "#fdbe85", "name": "INT'L PUB SERVICE, DIR", "size": 5 }
         ]
       }
     ]
@@ -528,211 +176,71 @@
         "colour": "#36483b",
         "name": "TEACHING/=GEN & CIVIC LEAD",
         "children": [
-          {
-            "colour": "#36483b",
-            "name": "CIVIC LEADERSHIP",
-            "size": 5
-          },
-          {
-            "colour": "#36483b",
-            "name": "NON PROFIT MGT CERT",
-            "size": 5
-          },
-          {
-            "colour": "#36483b",
-            "name": "ADDITIONAL UG COURSES",
-            "size": 5
-          },
-          {
-            "colour": "#36483b",
-            "name": "PA 513: ADMIN ETHICS / VALUE",
-            "size": 5
-          },
-          {
-            "colour": "#36483b",
-            "name": "PA 523: NGOS NONPROFIT ON WORLD STAGE",
-            "size": 5
-          },
-          {
-            "colour": "#36483b",
-            "name": "PA 536: STRATEGIC PLANNING",
-            "size": 5
-          }
+          { "colour": "#36483b", "name": "CIVIC LEADERSHIP", "size": 5 },
+          { "colour": "#36483b", "name": "NON PROFIT MGT CERT", "size": 5 },
+          { "colour": "#36483b", "name": "ADDITIONAL UG COURSES", "size": 5 },
+          { "colour": "#36483b", "name": "PA 513: ADMIN ETHICS / VALUE", "size": 5 },
+          { "colour": "#36483b", "name": "PA 523: NGOS NONPROFIT ON WORLD STAGE", "size": 5 },
+          { "colour": "#36483b", "name": "PA 536: STRATEGIC PLANNING", "size": 5 }
         ]
       },
       {
         "colour": "#667A66",
         "name": "STUDENT ADVISING",
         "children": [
-          {
-            "colour": "#667A66",
-            "name": "MPA",
-            "size": 5
-          }
+          { "colour": "#667A66", "name": "MPA", "size": 5 }
         ]
       },
       {
         "colour": "#C0CCC0",
         "name": "RESEARCH/SCHOL.",
         "children": [
-          {
-            "colour": "#C0CCC0",
-            "name": "CPS (HATFIELD)",
-            "size": 5
-          },
-          {
-            "colour": "#C0CCC0",
-            "name": "FACULTY DEV: COM ENGAGE",
-            "size": 5
-          },
-          {
-            "colour": "#C0CCC0",
-            "name": "INT'L ASSOC/ CIVIC ENGAGE TRAIN",
-            "size": 5
-          },
-          {
-            "colour": "#C0CCC0",
-            "name": "CULTURAL THEORY",
-            "size": 5
-          },
-          {
-            "colour": "#C0CCC0",
-            "name": "SCHOLARSHIP OF ENGAGEMENT",
-            "size": 5
-          },
-          {
-            "colour": "#C0CCC0",
-            "name": "COMMUNITY-BASED RESEARCH",
-            "size": 5
-          },
-          {
-            "colour": "#C0CCC0",
-            "name": "STUDENT (CIVIC) LEADERSHIP DEV",
-            "size": 5
-          },
-          {
-            "colour": "#C0CCC0",
-            "name": "INTERNATIONAL PROGRAM DEV",
-            "size": 5
-          },
-          {
-            "colour": "#C0CCC0",
-            "name": "SOCIAL SUSTAINABILITY",
-            "size": 5
-          }
+          { "colour": "#C0CCC0", "name": "CPS (HATFIELD)", "size": 5 },
+          { "colour": "#C0CCC0", "name": "FACULTY DEV: COM ENGAGE", "size": 5 },
+          { "colour": "#C0CCC0", "name": "INT'L ASSOC/ CIVIC ENGAGE TRAIN", "size": 5 },
+          { "colour": "#C0CCC0", "name": "CULTURAL THEORY", "size": 5 },
+          { "colour": "#C0CCC0", "name": "SCHOLARSHIP OF ENGAGEMENT", "size": 5 },
+          { "colour": "#C0CCC0", "name": "COMMUNITY-BASED RESEARCH", "size": 5 },
+          { "colour": "#C0CCC0", "name": "STUDENT (CIVIC) LEADERSHIP DEV", "size": 5 },
+          { "colour": "#C0CCC0", "name": "INTERNATIONAL PROGRAM DEV", "size": 5 },
+          { "colour": "#C0CCC0", "name": "SOCIAL SUSTAINABILITY", "size": 5 }
         ]
       },
       {
         "colour": "#ae4a1c",
         "name": "COLLABORATIONS/=PARTNERS",
         "children": [
-          {
-            "colour": "#ae4a1c",
-            "name": "US ST DEPT, MIDDLE EAST PARTNERSHP INIT",
-            "size": 5
-          },
-          {
-            "colour": "#ae4a1c",
-            "name": "INTERNATIONALIZATION COUNCIL",
-            "size": 5
-          },
-          {
-            "colour": "#ae4a1c",
-            "name": "COP OFFICE OF NEIGHBORHOOD INVOLVEMENT",
-            "size": 5
-          },
-          {
-            "colour": "#ae4a1c",
-            "name": "EL TECNOLOGICO DE MONTERREY",
-            "size": 5
-          },
-          {
-            "colour": "#ae4a1c",
-            "name": "MERCY CORP",
-            "size": 5
-          },
-          {
-            "colour": "#ae4a1c",
-            "name": "ISS, NEIGHBORHOOD INIT",
-            "size": 5
-          },
-          {
-            "colour": "#ae4a1c",
-            "name": "OR ST COM, CIVIC ENGAGEMENT",
-            "size": 5
-          }
+          { "colour": "#ae4a1c", "name": "US ST DEPT, MIDDLE EAST PARTNERSHP INIT", "size": 5 },
+          { "colour": "#ae4a1c", "name": "INTERNATIONALIZATION COUNCIL", "size": 5 },
+          { "colour": "#ae4a1c", "name": "COP OFFICE OF NEIGHBORHOOD INVOLVEMENT", "size": 5 },
+          { "colour": "#ae4a1c", "name": "EL TECNOLOGICO DE MONTERREY", "size": 5 },
+          { "colour": "#ae4a1c", "name": "MERCY CORP", "size": 5 },
+          { "colour": "#ae4a1c", "name": "ISS, NEIGHBORHOOD INIT", "size": 5 },
+          { "colour": "#ae4a1c", "name": "OR ST COM, CIVIC ENGAGEMENT", "size": 5 }
         ]
       },
       {
         "colour": "#fd8d3c",
         "name": "COMS &=TASK FORCES",
         "children": [
-          {
-            "colour": "#fd8d3c",
-            "name": "UNDERGRAD DEGREE, LEAD",
-            "size": 5
-          },
-          {
-            "colour": "#fd8d3c",
-            "name": "FLEX DEGREE PROPOSAL, LEAD",
-            "size": 50
-          },
-          {
-            "colour": "#fd8d3c",
-            "name": "STUDENT ASSESSMENT COM",
-            "size": 5
-          },
-          {
-            "colour": "#fd8d3c",
-            "name": "STRAT ENROL MGT",
-            "size": 5
-          },
-          {
-            "colour": "#fd8d3c",
-            "name": "P AND T REVISION COM",
-            "size": 5
-          },
-          {
-            "colour": "#fd8d3c",
-            "name": "U-WIDE PARTNERSHIPS COUNCIL",
-            "size": 5
-          },
-          {
-            "colour": "#fd8d3c",
-            "name": "INT'L ASSOC RES COM ENGAGE, SEC CO CHAIR",
-            "size": 5
-          },
-          {
-            "colour": "#fd8d3c",
-            "name": "PA ALUMNI LIASON",
-            "size": 5
-          },
-          {
-            "colour": "#fd8d3c",
-            "name": "RAMALEY SCHOL COM",
-            "size": 5
-          },
-          {
-            "colour": "#fd8d3c",
-            "name": "JRNL PUB SCHOL HIGH ED, SR ED BRD",
-            "size": 5
-          },
-          {
-            "colour": "#fd8d3c",
-            "name": "DPA COMPETENCIES RUBRICS GRP",
-            "size": 5
-          }
+          { "colour": "#fd8d3c", "name": "UNDERGRAD DEGREE, LEAD", "size": 5 },
+          { "colour": "#fd8d3c", "name": "FLEX DEGREE PROPOSAL, LEAD", "size": 5 },
+          { "colour": "#fd8d3c", "name": "STUDENT ASSESSMENT COM", "size": 5 },
+          { "colour": "#fd8d3c", "name": "STRAT ENROL MGT", "size": 5 },
+          { "colour": "#fd8d3c", "name": "P AND T REVISION COM", "size": 5 },
+          { "colour": "#fd8d3c", "name": "U-WIDE PARTNERSHIPS COUNCIL", "size": 5 },
+          { "colour": "#fd8d3c", "name": "INT'L ASSOC RES COM ENGAGE, SEC CO CHAIR", "size": 5 },
+          { "colour": "#fd8d3c", "name": "PA ALUMNI LIASON", "size": 5 },
+          { "colour": "#fd8d3c", "name": "RAMALEY SCHOL COM", "size": 5 },
+          { "colour": "#fd8d3c", "name": "JRNL PUB SCHOL HIGH ED, SR ED BRD", "size": 5 },
+          { "colour": "#fd8d3c", "name": "DPA COMPETENCIES RUBRICS GRP", "size": 5 }
         ]
       },
       {
         "colour": "#fdbe85",
         "name": "ADMINISTERS",
         "children": [
-          {
-            "colour": "#fdbe85",
-            "name": "CIVIC LEADERSHIP MINOR, DIR",
-            "size": 50
-          }
+          { "colour": "#fdbe85", "name": "CIVIC LEADERSHIP MINOR, DIR", "size": 5 }
         ]
       }
     ]
@@ -744,241 +252,77 @@
         "colour": "#36483b",
         "name": "TEACHING/=GENERAL, LG & GL",
         "children": [
-          {
-            "colour": "#36483b",
-            "name": "NON PROFIT MANAGEMENT CERT",
-            "size": 5
-          },
-          {
-            "colour": "#36483b",
-            "name": "METHODS",
-            "size": 5
-          },
-          {
-            "colour": "#36483b",
-            "name": "DIVERSITY/INTERCULTURAL COM",
-            "size": 5
-          },
-          {
-            "colour": "#36483b",
-            "name": "PA 510: ADVANCED CASE ANALYSIS",
-            "size": 5
-          },
-          {
-            "colour": "#36483b",
-            "name": "PA 510: PUBLIC LEADERSHIP & CULT COMP",
-            "size": 5
-          },
-          {
-            "colour": "#36483b",
-            "name": "PA 510: INTERNATIONAL FIELD EXP",
-            "size": 5
-          },
-          {
-            "colour": "#36483b",
-            "name": "PA 510: INTERNATIONAL FIELD EXP KOREA",
-            "size": 5
-          },
-          {
-            "colour": "#36483b",
-            "name": "PA 519: CIVIC CAPACITY",
-            "size": 5
-          },
-          {
-            "colour": "#36483b",
-            "name": "PA 549: CROSSCULT COMM/PUBL",
-            "size": 5
-          },
-          {
-            "colour": "#36483b",
-            "name": "PA 551: ANALYTIC METHODS PA I",
-            "size": 5
-          },
-          {
-            "colour": "#36483b",
-            "name": "PA 552: ANALYTIC METHODS PA II",
-            "size": 5
-          },
-          {
-            "colour": "#36483b",
-            "name": "PA 594: ENHANC DIVERSITY/ WORKPLACE",
-            "size": 5
-          },
-          {
-            "colour": "#36483b",
-            "name": "WORLD LANGUAGES: JAPANESE",
-            "size": 5
-          }
+          { "colour": "#36483b", "name": "NON PROFIT MANAGEMENT CERT", "size": 5 },
+          { "colour": "#36483b", "name": "METHODS", "size": 5 },
+          { "colour": "#36483b", "name": "DIVERSITY/INTERCULTURAL COM", "size": 5 },
+          { "colour": "#36483b", "name": "PA 510: ADVANCED CASE ANALYSIS", "size": 5 },
+          { "colour": "#36483b", "name": "PA 510: PUBLIC LEADERSHIP & CULT COMP", "size": 5 },
+          { "colour": "#36483b", "name": "PA 510: INTERNATIONAL FIELD EXP", "size": 5 },
+          { "colour": "#36483b", "name": "PA 510: INTERNATIONAL FIELD EXP KOREA", "size": 5 },
+          { "colour": "#36483b", "name": "PA 519: CIVIC CAPACITY", "size": 5 },
+          { "colour": "#36483b", "name": "PA 549: CROSSCULT COMM/PUBL", "size": 5 },
+          { "colour": "#36483b", "name": "PA 551: ANALYTIC METHODS PA I", "size": 5 },
+          { "colour": "#36483b", "name": "PA 552: ANALYTIC METHODS PA II", "size": 5 },
+          { "colour": "#36483b", "name": "PA 594: ENHANC DIVERSITY/ WORKPLACE", "size": 5 },
+          { "colour": "#36483b", "name": "WORLD LANGUAGES: JAPANESE", "size": 5 }
         ]
       },
       {
         "colour": "#667A66",
         "name": "STUDENT ADVISING",
         "children": [
-          {
-            "colour": "#667A66",
-            "name": "EMPA",
-            "size": 5
-          },
-          {
-            "colour": "#667A66",
-            "name": "MPA",
-            "size": 5
-          },
-          {
-            "colour": "#667A66",
-            "name": "NON PROFIT MANAGEMENT CERT",
-            "size": 5
-          },
-          {
-            "colour": "#667A66",
-            "name": "PAP, STUDENT COMS",
-            "size": 5
-          }
+          { "colour": "#667A66", "name": "EMPA", "size": 5 },
+          { "colour": "#667A66", "name": "MPA", "size": 5 },
+          { "colour": "#667A66", "name": "NON PROFIT MANAGEMENT CERT", "size": 5 },
+          { "colour": "#667A66", "name": "PAP, STUDENT COMS", "size": 5 }
         ]
       },
       {
         "colour": "#C0CCC0",
         "name": "RESEARCH/SCHOL.",
         "children": [
-          {
-            "colour": "#C0CCC0",
-            "name": "CPS (HATFIELD)",
-            "size": 5
-          },
-          {
-            "colour": "#C0CCC0",
-            "name": "EQUITY, DIVERSITY, INCLUSION",
-            "size": 5
-          },
-          {
-            "colour": "#C0CCC0",
-            "name": "CAPACITY BLDG FOR COMMON GOOD",
-            "size": 5
-          },
-          {
-            "colour": "#C0CCC0",
-            "name": "NEW PUB GOVERNANCE, CIVIC CAP",
-            "size": 5
-          },
-          {
-            "colour": "#C0CCC0",
-            "name": "LOCAL GOVERNMENT, CRIME RATE",
-            "size": 5
-          },
-          {
-            "colour": "#C0CCC0",
-            "name": "TRADITIONS OF CIVIC ENGAGE,US",
-            "size": 5
-          },
-          {
-            "colour": "#C0CCC0",
-            "name": "INTERNATIONALIZATION AT PSU",
-            "size": 5
-          },
-          {
-            "colour": "#C0CCC0",
-            "name": "COMMISSION FORM OF GOVERNMENT",
-            "size": 5
-          }
+          { "colour": "#C0CCC0", "name": "CPS (HATFIELD)", "size": 5 },
+          { "colour": "#C0CCC0", "name": "EQUITY, DIVERSITY, INCLUSION", "size": 5 },
+          { "colour": "#C0CCC0", "name": "CAPACITY BLDG FOR COMMON GOOD", "size": 5 },
+          { "colour": "#C0CCC0", "name": "NEW PUB GOVERNANCE, CIVIC CAP", "size": 5 },
+          { "colour": "#C0CCC0", "name": "LOCAL GOVERNMENT, CRIME RATE", "size": 5 },
+          { "colour": "#C0CCC0", "name": "TRADITIONS OF CIVIC ENGAGE,US", "size": 5 },
+          { "colour": "#C0CCC0", "name": "INTERNATIONALIZATION AT PSU", "size": 5 },
+          { "colour": "#C0CCC0", "name": "COMMISSION FORM OF GOVERNMENT", "size": 5 }
         ]
       },
       {
         "colour": "#ae4a1c",
         "name": "COLLABORATIONS/=PARTNERS",
         "children": [
-          {
-            "colour": "#ae4a1c",
-            "name": "CPS (CORE FACULTY)",
-            "size": 5
-          },
-          {
-            "colour": "#ae4a1c",
-            "name": "TOKYO FNDN JPN LOC GOVT MGMT TRAIN PROG",
-            "size": 5
-          },
-          {
-            "colour": "#ae4a1c",
-            "name": "SEOUL METRO GOVT PROG",
-            "size": 5
-          },
-          {
-            "colour": "#ae4a1c",
-            "name": "OR BD MASSAGE THERAPISTS",
-            "size": 5
-          },
-          {
-            "colour": "#ae4a1c",
-            "name": "PORTLAND POLICE BUREAU",
-            "size": 5
-          },
-          {
-            "colour": "#ae4a1c",
-            "name": "CLACKAMAS COUNTY",
-            "size": 5
-          },
-          {
-            "colour": "#ae4a1c",
-            "name": "CITY OF BEAVERTON",
-            "size": 5
-          },
-          {
-            "colour": "#ae4a1c",
-            "name": "OR DEPT ADMIN SERVS",
-            "size": 5
-          },
-          {
-            "colour": "#ae4a1c",
-            "name": "TUALATIN HILLS PARK & REC",
-            "size": 5
-          },
-          {
-            "colour": "#ae4a1c",
-            "name": "JAPAN AMERICAN SOC OF OR",
-            "size": 5
-          }
+          { "colour": "#ae4a1c", "name": "CPS (CORE FACULTY)", "size": 5 },
+          { "colour": "#ae4a1c", "name": "TOKYO FNDN JPN LOC GOVT MGMT TRAIN PROG", "size": 5 },
+          { "colour": "#ae4a1c", "name": "SEOUL METRO GOVT PROG", "size": 5 },
+          { "colour": "#ae4a1c", "name": "OR BD MASSAGE THERAPISTS", "size": 5 },
+          { "colour": "#ae4a1c", "name": "PORTLAND POLICE BUREAU", "size": 5 },
+          { "colour": "#ae4a1c", "name": "CLACKAMAS COUNTY", "size": 5 },
+          { "colour": "#ae4a1c", "name": "CITY OF BEAVERTON", "size": 5 },
+          { "colour": "#ae4a1c", "name": "OR DEPT ADMIN SERVS", "size": 5 },
+          { "colour": "#ae4a1c", "name": "TUALATIN HILLS PARK & REC", "size": 5 },
+          { "colour": "#ae4a1c", "name": "JAPAN AMERICAN SOC OF OR", "size": 5 }
         ]
       },
       {
         "colour": "#fd8d3c",
         "name": "COMS &=TASK FORCES",
         "children": [
-          {
-            "colour": "#fd8d3c",
-            "name": "ASPA INTER GOVTL ADMIN/MGMT, BD",
-            "size": 5
-          },
-          {
-            "colour": "#fd8d3c",
-            "name": "DIVERSITY COMMITTEE, PA, PSU",
-            "size": 5
-          },
-          {
-            "colour": "#fd8d3c",
-            "name": "DIVERSITY ACTION COUNCIL, PSU",
-            "size": 5
-          },
-          {
-            "colour": "#fd8d3c",
-            "name": "TOKYO FOUNDATION, ADVISORY COM",
-            "size": 5
-          },
-          {
-            "colour": "#fd8d3c",
-            "name": "CENTER FOR JAPANESE STUDIES, PSU",
-            "size": 5
-          }
+          { "colour": "#fd8d3c", "name": "ASPA INTER GOVTL ADMIN/MGMT, BD", "size": 5 },
+          { "colour": "#fd8d3c", "name": "DIVERSITY COMMITTEE, PA, PSU", "size": 5 },
+          { "colour": "#fd8d3c", "name": "DIVERSITY ACTION COUNCIL, PSU", "size": 5 },
+          { "colour": "#fd8d3c", "name": "TOKYO FOUNDATION, ADVISORY COM", "size": 5 },
+          { "colour": "#fd8d3c", "name": "CENTER FOR JAPANESE STUDIES, PSU", "size": 5 }
         ]
       },
       {
         "colour": "#fdbe85",
         "name": "ADMINISTERS",
         "children": [
-          {
-            "colour": "#fdbe85",
-            "name": "CENTER FOR PUBLIC SERVICE, ASSOC DIR",
-            "size": 50
-          }
+          { "colour": "#fdbe85", "name": "CENTER FOR PUBLIC SERVICE, ASSOC DIR", "size": 5 }
         ]
       }
     ]
