@@ -26,8 +26,7 @@
         "name": "STUDENT ADVISING",
         "children": [
           { "colour": "#667A66", "name": "UNDERGRAD: MCNAIR, HONORS COL", "size": 5 },
-          { "colour": "#667A66", "name": "MPA", "size": 5 },
-          { "colour": "#667A66", "name": "PAP", "size": 5 }
+          { "colour": "#667A66", "name": "MPA, PAP", "size": 5 }
         ]
       },
       {
@@ -100,7 +99,7 @@
           { "colour": "#36483b", "name": "PA 514: GLOBAL LEADERSHIP & MGMT", "size": 5 },
           { "colour": "#36483b", "name": "PA 517: LDRSHP DEV/PUB ORGS", "size": 5 },
           { "colour": "#36483b", "name": "PA 558: MANAGING PUBLIC PROJECTS", "size": 5 },
-          { "colour": "#36483b", "name": "PA 603", "size": 5 },
+          { "colour": "#36483b", "name": "PA 603: DISSERTATION", "size": 5 },
           { "colour": "#36483b", "name": "PA 710: SPST: FOUNDATNS OF EMERGE LDRS", "size": 5 },
           { "colour": "#36483b", "name": "PA 710: SPST: NAVIGATING POLITY NTWRKS", "size": 5 }
         ]
@@ -109,9 +108,7 @@
         "colour": "#667A66",
         "name": "STUDENT ADVISING",
         "children": [
-          { "colour": "#667A66", "name": "MPA", "size": 5 },
-          { "colour": "#667A66", "name": "EMPA", "size": 5 },
-          { "colour": "#667A66", "name": "PAP", "size": 5 },
+          { "colour": "#667A66", "name": "MPA, EMPA, PAP", "size": 5 },
           { "colour": "#667A66", "name": "INT'L MGT INTERNS", "size": 5 }
         ]
       },
@@ -162,6 +159,7 @@
         "colour": "#fdbe85",
         "name": "ADMINISTERS",
         "children": [
+          { "colour": "#fdbe85", "name": "GLOBAL LEADERSHIP, FACULTY LEAD", "size": 5 },
           { "colour": "#fdbe85", "name": "US STATE DEPT GRANT FOR VN 2014", "size": 5 },
           { "colour": "#fdbe85", "name": "CPS OREGON INNOVATION AWARD", "size": 5 },
           { "colour": "#fdbe85", "name": "INT'L PUB SERVICE, DIR", "size": 5 }
@@ -210,9 +208,9 @@
         "colour": "#ae4a1c",
         "name": "COLLABORATIONS/=PARTNERS",
         "children": [
-          { "colour": "#ae4a1c", "name": "US ST DEPT, MIDDLE EAST PARTNERSHP INIT", "size": 5 },
+          { "colour": "#ae4a1c", "name": "US ST DEPT, MID-EAST PRTNRSHP", "size": 5 },
           { "colour": "#ae4a1c", "name": "INTERNATIONALIZATION COUNCIL", "size": 5 },
-          { "colour": "#ae4a1c", "name": "COP OFFICE OF NEIGHBORHOOD INVOLVEMENT", "size": 5 },
+          { "colour": "#ae4a1c", "name": "COP OFF OF NEIGHBORHD INVOLVE", "size": 5 },
           { "colour": "#ae4a1c", "name": "EL TECNOLOGICO DE MONTERREY", "size": 5 },
           { "colour": "#ae4a1c", "name": "MERCY CORP", "size": 5 },
           { "colour": "#ae4a1c", "name": "ISS, NEIGHBORHOOD INIT", "size": 5 },
@@ -229,7 +227,7 @@
           { "colour": "#fd8d3c", "name": "STRAT ENROL MGT", "size": 5 },
           { "colour": "#fd8d3c", "name": "P AND T REVISION COM", "size": 5 },
           { "colour": "#fd8d3c", "name": "U-WIDE PARTNERSHIPS COUNCIL", "size": 5 },
-          { "colour": "#fd8d3c", "name": "INT'L ASSOC RES COM ENGAGE, SEC CO CHAIR", "size": 5 },
+          { "colour": "#fd8d3c", "name": "INT'L ASSOC RES COM ENGAGE, CO-CHAIR", "size": 5 },
           { "colour": "#fd8d3c", "name": "PA ALUMNI LIASON", "size": 5 },
           { "colour": "#fd8d3c", "name": "RAMALEY SCHOL COM", "size": 5 },
           { "colour": "#fd8d3c", "name": "JRNL PUB SCHOL HIGH ED, SR ED BRD", "size": 5 },
@@ -253,8 +251,6 @@
         "name": "TEACHING/=GENERAL, LG & GL",
         "children": [
           { "colour": "#36483b", "name": "NON PROFIT MANAGEMENT CERT", "size": 5 },
-          { "colour": "#36483b", "name": "METHODS", "size": 5 },
-          { "colour": "#36483b", "name": "DIVERSITY/INTERCULTURAL COM", "size": 5 },
           { "colour": "#36483b", "name": "PA 510: ADVANCED CASE ANALYSIS", "size": 5 },
           { "colour": "#36483b", "name": "PA 510: PUBLIC LEADERSHIP & CULT COMP", "size": 5 },
           { "colour": "#36483b", "name": "PA 510: INTERNATIONAL FIELD EXP", "size": 5 },
@@ -271,10 +267,8 @@
         "colour": "#667A66",
         "name": "STUDENT ADVISING",
         "children": [
-          { "colour": "#667A66", "name": "EMPA", "size": 5 },
-          { "colour": "#667A66", "name": "MPA", "size": 5 },
-          { "colour": "#667A66", "name": "NON PROFIT MANAGEMENT CERT", "size": 5 },
-          { "colour": "#667A66", "name": "PAP, STUDENT COMS", "size": 5 }
+          { "colour": "#667A66", "name": "MPA, EMPA, PAP", "size": 5 },
+          { "colour": "#667A66", "name": "NON PROFIT MANAGEMENT CERT", "size": 5 }
         ]
       },
       {
@@ -282,6 +276,7 @@
         "name": "RESEARCH/SCHOL.",
         "children": [
           { "colour": "#C0CCC0", "name": "CPS (HATFIELD)", "size": 5 },
+          { "colour": "#C0CCC0", "name": "METHODS", "size": 5 },
           { "colour": "#C0CCC0", "name": "EQUITY, DIVERSITY, INCLUSION", "size": 5 },
           { "colour": "#C0CCC0", "name": "CAPACITY BLDG FOR COMMON GOOD", "size": 5 },
           { "colour": "#C0CCC0", "name": "NEW PUB GOVERNANCE, CIVIC CAP", "size": 5 },
