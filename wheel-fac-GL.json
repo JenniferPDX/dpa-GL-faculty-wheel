@@ -1,4 +1,6 @@
-[
+{
+      "name": "Global Leadership",
+      "children": [
   {
     "name": "CORBETT",
     "children": [
@@ -322,4 +324,5 @@
       }
     ]
   }
-]
+    ]
+}
