@@ -27,8 +27,8 @@
         "colour": "#667A66",
         "name": "STUDENT ADVISING",
         "children": [
-          { "colour": "#667A66", "name": "UNDERGRAD: MCNAIR, HONORS COL", "size": 5 },
-          { "colour": "#667A66", "name": "MPA, PAP", "size": 5 }
+          { "colour": "#667A66", "name": "MPA, PAP", "size": 5 },
+          { "colour": "#667A66", "name": "UNDERGRAD: MCNAIR, HONORS COL", "size": 5 }
         ]
       },
       {
@@ -65,7 +65,7 @@
       },
       {
         "colour": "#fd8d3c",
-        "name": "COMS &=TASK FORCES",
+        "name": "COMS & =TASK FORCES",
         "children": [
           { "colour": "#fd8d3c", "name": "UNIVERSITY LIBRARY COM", "size": 5 },
           { "colour": "#fd8d3c", "name": "INTERNATIONALIZATION COM", "size": 5 },
@@ -94,10 +94,8 @@
         "children": [
           { "colour": "#36483b", "name": "EMPA", "size": 5 },
           { "colour": "#36483b", "name": "NON PROFIT MANAGEMENT CERT", "size": 5 },
-          { "colour": "#36483b", "name": "GLOBAL ENGAGEMENT", "size": 5 },
           { "colour": "#36483b", "name": "PA 510: PUB LSHP & CULT COMPTENCY", "size": 5 },
           { "colour": "#36483b", "name": "PA 510: INTERNATIONAL FIELD EXP", "size": 5 },
-          { "colour": "#36483b", "name": "PA 510: INTL FLD EXPRNCE VIETNAM", "size": 5 },
           { "colour": "#36483b", "name": "PA 514: GLOBAL LEADERSHIP & MGMT", "size": 5 },
           { "colour": "#36483b", "name": "PA 517: LDRSHP DEV/PUB ORGS", "size": 5 },
           { "colour": "#36483b", "name": "PA 558: MANAGING PUBLIC PROJECTS", "size": 5 },
@@ -118,6 +116,7 @@
         "colour": "#C0CCC0",
         "name": "RESEARCH/SCHOL.",
         "children": [
+          { "colour": "#C0CCC0", "name": "GLOBAL ENGAGEMENT", "size": 5 },
           { "colour": "#C0CCC0", "name": "EMERGE LEADERSHIP BOOK", "size": 5 },
           { "colour": "#C0CCC0", "name": "INNOVATION-DRIVEN GOVERNANCE", "size": 5 },
           { "colour": "#C0CCC0", "name": "PUBLIC MORALITY TOOL", "size": 5 }
@@ -147,7 +146,7 @@
       },
       {
         "colour": "#fd8d3c",
-        "name": "COMS &=TASK FORCES",
+        "name": "COMS & =TASK FORCES",
         "children": [
           { "colour": "#fd8d3c", "name": "CPS (HATFIELD)", "size": 5 },
           { "colour": "#fd8d3c", "name": "VIET ADV COM", "size": 5 },
@@ -188,6 +187,7 @@
         "colour": "#667A66",
         "name": "STUDENT ADVISING",
         "children": [
+          { "colour": "#36483b", "name": "CIVIC LEADERSHIP", "size": 5 },
           { "colour": "#667A66", "name": "MPA", "size": 5 }
         ]
       },
@@ -203,7 +203,8 @@
           { "colour": "#C0CCC0", "name": "COMMUNITY-BASED RESEARCH", "size": 5 },
           { "colour": "#C0CCC0", "name": "STUDENT (CIVIC) LEADERSHIP DEV", "size": 5 },
           { "colour": "#C0CCC0", "name": "INTERNATIONAL PROGRAM DEV", "size": 5 },
-          { "colour": "#C0CCC0", "name": "SOCIAL SUSTAINABILITY", "size": 5 }
+          { "colour": "#C0CCC0", "name": "SOCIAL SUSTAINABILITY", "size": 5 },
+          { "colour": "#C0CCC0", "name": "JRNL PUB SCHOL HIGH ED, SR ED BRD", "size": 5 }
         ]
       },
       {
@@ -216,12 +217,13 @@
           { "colour": "#ae4a1c", "name": "EL TECNOLOGICO DE MONTERREY", "size": 5 },
           { "colour": "#ae4a1c", "name": "MERCY CORP", "size": 5 },
           { "colour": "#ae4a1c", "name": "ISS, NEIGHBORHOOD INIT", "size": 5 },
-          { "colour": "#ae4a1c", "name": "OR ST COM, CIVIC ENGAGEMENT", "size": 5 }
+          { "colour": "#ae4a1c", "name": "OR ST COM, CIVIC ENGAGEMENT", "size": 5 },
+          { "colour": "#ae4a1c", "name": "IARSLCE", "size": 5 }
         ]
       },
       {
         "colour": "#fd8d3c",
-        "name": "COMS &=TASK FORCES",
+        "name": "COMS & =TASK FORCES",
         "children": [
           { "colour": "#fd8d3c", "name": "UNDERGRAD DEGREE, LEAD", "size": 5 },
           { "colour": "#fd8d3c", "name": "FLEX DEGREE PROPOSAL, LEAD", "size": 5 },
@@ -232,7 +234,6 @@
           { "colour": "#fd8d3c", "name": "INT'L ASSOC RES COM ENGAGE, CO-CHAIR", "size": 5 },
           { "colour": "#fd8d3c", "name": "PA ALUMNI LIASON", "size": 5 },
           { "colour": "#fd8d3c", "name": "RAMALEY SCHOL COM", "size": 5 },
-          { "colour": "#fd8d3c", "name": "JRNL PUB SCHOL HIGH ED, SR ED BRD", "size": 5 },
           { "colour": "#fd8d3c", "name": "DPA COMPETENCIES RUBRICS GRP", "size": 5 }
         ]
       },
@@ -306,7 +307,7 @@
       },
       {
         "colour": "#fd8d3c",
-        "name": "COMS &=TASK FORCES",
+        "name": "COMS & =TASK FORCES",
         "children": [
           { "colour": "#fd8d3c", "name": "ASPA INTER GOVTL ADMIN/MGMT, BD", "size": 5 },
           { "colour": "#fd8d3c", "name": "DIVERSITY COMMITTEE, PA, PSU", "size": 5 },
