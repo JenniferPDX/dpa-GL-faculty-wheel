@@ -19,8 +19,8 @@
           { "colour": "#36483b", "name": "PA 534: ADMIN LAW/POLICY", "size": 5 },
           { "colour": "#36483b", "name": "PA 540: ADMIN THEORY/BEHAV", "size": 5 },
           { "colour": "#36483b", "name": "PA 563: CITIZENS & ADMIN", "size": 5 },
-          { "colour": "#36483b", "name": "PA 603", "size": 5 },
-          { "colour": "#36483b", "name": "PAP 603", "size": 5 }
+          { "colour": "#36483b", "name": "PA 603: THESIS CREDIT", "size": 5 },
+          { "colour": "#36483b", "name": "PAP 603: THESIS CREDIT", "size": 5 }
         ]
       },
       {
@@ -99,7 +99,7 @@
           { "colour": "#36483b", "name": "PA 514: GLOBAL LEADERSHIP & MGMT", "size": 5 },
           { "colour": "#36483b", "name": "PA 517: LDRSHP DEV/PUB ORGS", "size": 5 },
           { "colour": "#36483b", "name": "PA 558: MANAGING PUBLIC PROJECTS", "size": 5 },
-          { "colour": "#36483b", "name": "PA 603: DISSERTATION", "size": 5 },
+          { "colour": "#36483b", "name": "PA 603: THESIS CREDIT", "size": 5 },
           { "colour": "#36483b", "name": "PA 710: SPST: FOUNDATNS OF EMERGE LDRS", "size": 5 },
           { "colour": "#36483b", "name": "PA 710: SPST: NAVIGATING POLITY NTWRKS", "size": 5 }
         ]
@@ -187,8 +187,8 @@
         "colour": "#667A66",
         "name": "STUDENT ADVISING",
         "children": [
-          { "colour": "#36483b", "name": "CIVIC LEADERSHIP", "size": 5 },
-          { "colour": "#667A66", "name": "MPA", "size": 5 }
+          { "colour": "#667A66", "name": "MPA, PAP", "size": 5 },
+          { "colour": "#36483b", "name": "CIVIC LEADERSHIP", "size": 5 }
         ]
       },
       {
@@ -263,6 +263,7 @@
           { "colour": "#36483b", "name": "PA 551: ANALYTIC METHODS PA I", "size": 5 },
           { "colour": "#36483b", "name": "PA 552: ANALYTIC METHODS PA II", "size": 5 },
           { "colour": "#36483b", "name": "PA 594: ENHANC DIVERSITY/ WORKPLACE", "size": 5 },
+          { "colour": "#36483b", "name": "PA 605: READING & CONFERENCE", "size": 5 },
           { "colour": "#36483b", "name": "WORLD LANGUAGES: JAPANESE", "size": 5 }
         ]
       },
